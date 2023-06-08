@@ -1,40 +1,8 @@
-[
-  {
-    "categoria": "cultura",
-    "pregunta": "¿Quién escribió la famosa novela 'Don Quijote de la Mancha'?",
-    "opciones": ["Miguel de Cervantes", "Gabriel García Márquez", "William Shakespeare", "Friedrich Nietzsche"],
-    "respuesta_correcta": "Miguel de Cervantes",
-    "explicacion": "La famosa novela 'Don Quijote de la Mancha' fue escrita por Miguel de Cervantes, un destacado escritor español del siglo XVI. La obra es considerada una de las más importantes de la literatura universal."
-  },
-  {
-    "categoria": "deportes",
-    "pregunta": "¿En qué deporte se utiliza una raqueta para golpear una pelota sobre una red?",
-    "opciones": ["Tenis", "Fútbol", "Baloncesto", "Golf"],
-    "respuesta_correcta": "Tenis",
-    "explicacion": "El tenis es el deporte en el que se utiliza una raqueta para golpear una pelota sobre una red. Se juega tanto en individuales como en dobles y es popular en todo el mundo."
-  },
-  {
-    "categoria": "arte",
-    "pregunta": "¿Cuál de los siguientes artistas es conocido por sus pinturas de girasoles?",
-    "opciones": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Salvador Dalí"],
-    "respuesta_correcta": "Vincent van Gogh",
-    "explicacion": "Vincent van Gogh es el artista conocido por sus pinturas de girasoles. Su estilo único y expresionista ha dejado un impacto duradero en el mundo del arte."
-  },
-  {
-    "categoria": "cine",
-    "pregunta": "¿Quién dirigió la película 'El Padrino'?",
-    "opciones": ["Francis Ford Coppola", "Martin Scorsese", "Steven Spielberg", "Quentin Tarantino"],
-    "respuesta_correcta": "Francis Ford Coppola",
-    "explicacion": "La película 'El Padrino' fue dirigida por Francis Ford Coppola. Es considerada una de las mejores películas de la historia del cine y ha influido en generaciones de cineastas."
-  },
-  {
-    "categoria": "historia",
-    "pregunta": "¿En qué año tuvo lugar la Revolución Francesa?",
-    "opciones": ["1789", "1492", "1917", "1836"],
-    "respuesta_correcta": "1789",
-    "explicacion": "La Revolución Francesa tuvo lugar en 1789. Fue un evento clave que marcó el fin del Antiguo Régimen en Francia y sentó las bases de la democracia moderna."
-  },
-  {
-    "categoria": "ciencia",
-    "pregunta": "¿Quién formuló la teoría de la relatividad?",
-    "opciones": ["Albert Einstein", "Isaac Newton", "Charles Darwin", "Marie
+ {
+      "category": "cultura",
+      "question": "¿Quién pintó el famoso cuadro 'La Mona Lisa'?",
+      "options": ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh", "Frida Kahlo"],
+      "answer": 0,
+      "explanation": "El cuadro 'La Mona Lisa' fue pintado por Leonardo da Vinci en el siglo XVI. Es una de las obras más famosas y reconocidas en la historia del arte."
+    }
+    

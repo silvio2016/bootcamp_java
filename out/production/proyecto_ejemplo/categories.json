@@ -1,0 +1,26 @@
+[
+    {
+      "category": "cultura",
+      "description": "Preguntas que abarcan el arte, la literatura, la música y las tradiciones culturales de diversas sociedades."
+    },
+    {
+      "category": "deportes",
+      "description": "Preguntas relacionadas con una amplia variedad de disciplinas deportivas, competiciones famosas y atletas destacados."
+    },
+    {
+      "category": "arte",
+      "description": "Preguntas sobre las diferentes formas de expresión artística, incluyendo pintura, escultura, arquitectura y más."
+    },
+    {
+      "category": "cine",
+      "description": "Preguntas que exploran el mundo del cine, incluyendo películas, directores, actores y momentos emblemáticos."
+    },
+    {
+      "category": "historia",
+      "description": "Preguntas que cubren diversos periodos históricos, eventos significativos y personajes influyentes en la historia de la humanidad."
+    },
+    {
+      "category": "ciencia",
+      "description": "Preguntas sobre los avances científicos, las distintas ramas de la ciencia y los descubrimientos que han revolucionado nuestra comprensión del mundo."
+    }
+  ]

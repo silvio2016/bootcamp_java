@@ -1,0 +1,8 @@
+  {
+      "category": "cultura",
+      "question": "¿Quién pintó el famoso cuadro 'La Mona Lisa'?",
+      "options": ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh", "Frida Kahlo"],
+      "answer": 0,
+      "explanation": "El cuadro 'La Mona Lisa' fue pintado por Leonardo da Vinci en el siglo XVI. Es una de las obras más famosas y reconocidas en la historia del arte."
+    }
+    

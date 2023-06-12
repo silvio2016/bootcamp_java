@@ -19,7 +19,5 @@ public class AdivinaNumero {
             System.out.print(numero + " No adivinaste :(");
         }
 
-
-
     }
 }

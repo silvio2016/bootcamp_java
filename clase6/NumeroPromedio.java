@@ -1,5 +1,5 @@
 package clase6;
-/*Armar un programa que permita cargar 3 números y mostrar cual es el número promedio*/
+/* 5) Armar un programa que permita cargar 3 números y mostrar cual es el número promedio*/
 
 import java.util.Scanner;
 

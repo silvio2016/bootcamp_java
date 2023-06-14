@@ -1,15 +1,14 @@
 
-
+/* 7)  Muestra los números del 1 al 100 utilizando un bucle while. */
 
 package clase6;
-
 public class UnoCien {
-    public static void maim (String arg[]){
-        int numero = 1;
+    public static void main(String arg[]){
+        int numero = 0;
 
-        while (numero <=100){
+        while (numero <100){
             numero ++;
-            System.out.print(numero);
+            System.out.println("Número: " + numero);
         }
     }
 }

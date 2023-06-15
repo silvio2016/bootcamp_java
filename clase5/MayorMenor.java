@@ -11,7 +11,7 @@
 
 import java.util.Scanner;
 public class MayorMenor {
-    public static void main(String arg[]) {
+    public static void main(String[] args) {
         Scanner NumeroIngrsado = new Scanner(System.in);
 
         System.out.print("Ingresa un numero: ");

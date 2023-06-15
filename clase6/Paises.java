@@ -8,7 +8,7 @@ package clase6;
 import java.util.Scanner;
 
 public class Paises {
-    public static void main (String arg []){
+    public static void main (String[] args){
         Scanner teclado = new Scanner(System.in);
         System.out.print("Ingresa el nombre de un país: ");
         String pais = teclado.next();

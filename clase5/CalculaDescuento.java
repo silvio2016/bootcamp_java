@@ -7,7 +7,7 @@ Calcula el precio final después de aplicar el descuento utilizando
 la fórmula: precioFinal = precioOriginal - (precioOriginal * descuento / 100).
 Muestra el precio final al usuario.*/
 public class CalculaDescuento {
-    public static void main(String arg[]){
+    public static void main(String[] args){
         Scanner CalculaDescuento = new Scanner(System.in);
 
         System.out.print("Ingresa el precio del producto: $");

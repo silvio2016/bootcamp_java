@@ -3,7 +3,7 @@ package clase6;
 import java.util.Scanner;
 
 public class ParImpar {
-    public static void main (String arg[]){
+    public static void main (String[] args){
         Scanner tecleado = new Scanner(System.in);
 
         System.out.print("Ingrese un numero: ");

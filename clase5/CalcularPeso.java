@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class CalcularPeso {
-    public static void main(String arg[]) {
+    public static void main(String[] args) {
         Scanner cargarDatos = new Scanner(System.in);
         //Peso en KG / altura en metros al cuadrado
 

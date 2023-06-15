@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class ConversorMillas {
 
-    public static void main(String arg[]) {
+    public static void main(String[] args) {
         /*2) Conversor de millas a kilómetros:
         Pídele al usuario que ingrese una distancia en millas.
         Convierte la distancia a kilómetros utilizando la fórmula: kilómetros = millas * 1.60934.

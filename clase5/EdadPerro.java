@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class EdadPerro {
-    public static void main(String arg[]) {
+    public static void main(String[] args) {
         Scanner ingresaEdad = new Scanner(System.in);
 
         /*1) Calculadora de edad de perros:

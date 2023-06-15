@@ -7,7 +7,7 @@ Calcula el monto de la propina utilizando la fórmula: propina = totalCuenta * (
 import java.util.Scanner;
 
 public class CalculaPropinas {
-    public static void main (String arg[]){
+    public static void main (String[] args){
         Scanner CalculaGanancias = new Scanner(System.in);
 
         System.out.print("Ingresa el total de la cuenta del restaurante: $");

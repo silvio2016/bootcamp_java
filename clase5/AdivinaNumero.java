@@ -4,7 +4,7 @@
 import java.util.Scanner;
 
 public class AdivinaNumero {
-    public static void main (String arg[]){
+    public static void main (String[] args){
 
         Scanner IngresaNumero = new Scanner(System.in);
 

@@ -3,7 +3,7 @@
 
 package clase6;
 public class UnoCien {
-    public static void main(String arg[]){
+    public static void main(String[] args){
         int numero = 0;
 
         while (numero <100){
